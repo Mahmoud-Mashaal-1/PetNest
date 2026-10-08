@@ -8,8 +8,9 @@ A one-stop platform for pet adoption, buying, veterinary care, and everything pe
 
   * Mahmoud Sabry Abdo Mashaal 
   * Alaa Hamada Mohammed Elkhodary 
-  * Aya Hassan Elsherbini Hassan 
+  * Aya Hassan Elsherbini Hassan
+  * Kholoud Mohamed Atiya Eldiasty
   * Nada AboBakr AboBakr Elesway 
-  * Reda Mostafa Mohamed Salem 
+  * Reda Mostafa Mohamed Salem
 
 * **Instructor:** Eng. Mohamed Kamar
