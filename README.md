@@ -6,10 +6,10 @@ A one-stop platform for pet adoption, buying, veterinary care, and everything pe
 
 * 👥 **Team Members**
 
-  * Mahmoud Sabry Abdo Mashaal — UI/UX Designer
-  * Alaa Hamada Mohammed Elkhodary — UI/UX Designer
-  * Aya Hassan Elsherbini Hassan — UX Researcher
-  * Nada AboBakr AboBakr Elesway — UX Researcher
-  * Reda Mostafa Mohamed Salem — Case Study Documentation
+  * Mahmoud Sabry Abdo Mashaal 
+  * Alaa Hamada Mohammed Elkhodary 
+  * Aya Hassan Elsherbini Hassan 
+  * Nada AboBakr AboBakr Elesway 
+  * Reda Mostafa Mohamed Salem 
 
 * **Instructor:** Eng. Mohamed Kamar
